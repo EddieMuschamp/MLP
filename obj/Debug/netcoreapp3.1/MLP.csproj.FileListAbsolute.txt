@@ -1,0 +1,55 @@
+C:\Users\Eddie\Uni Stuff\AI\MLP\obj\Debug\netcoreapp3.1\MLP.csprojAssemblyReference.cache
+C:\Users\Eddie\Uni Stuff\AI\MLP\obj\Debug\netcoreapp3.1\MLP.AssemblyInfoInputs.cache
+C:\Users\Eddie\Uni Stuff\AI\MLP\obj\Debug\netcoreapp3.1\MLP.AssemblyInfo.cs
+C:\Users\Eddie\Uni Stuff\AI\MLP\obj\Debug\netcoreapp3.1\MLP.csproj.CoreCompileInputs.cache
+C:\Users\Eddie\Uni Stuff\AI\MLP\bin\Debug\netcoreapp3.1\MLP.exe
+C:\Users\Eddie\Uni Stuff\AI\MLP\bin\Debug\netcoreapp3.1\MLP.deps.json
+C:\Users\Eddie\Uni Stuff\AI\MLP\bin\Debug\netcoreapp3.1\MLP.runtimeconfig.json
+C:\Users\Eddie\Uni Stuff\AI\MLP\bin\Debug\netcoreapp3.1\MLP.runtimeconfig.dev.json
+C:\Users\Eddie\Uni Stuff\AI\MLP\bin\Debug\netcoreapp3.1\MLP.dll
+C:\Users\Eddie\Uni Stuff\AI\MLP\bin\Debug\netcoreapp3.1\MLP.pdb
+C:\Users\Eddie\Uni Stuff\AI\MLP\obj\Debug\netcoreapp3.1\MLP.dll
+C:\Users\Eddie\Uni Stuff\AI\MLP\obj\Debug\netcoreapp3.1\MLP.pdb
+C:\Users\Eddie\Uni Stuff\AI\MLP\obj\Debug\netcoreapp3.1\MLP.genruntimeconfig.cache
+C:\Users\Computing\MLP\bin\Debug\netcoreapp3.1\MLP.exe
+C:\Users\Computing\MLP\bin\Debug\netcoreapp3.1\MLP.deps.json
+C:\Users\Computing\MLP\bin\Debug\netcoreapp3.1\MLP.runtimeconfig.json
+C:\Users\Computing\MLP\bin\Debug\netcoreapp3.1\MLP.runtimeconfig.dev.json
+C:\Users\Computing\MLP\bin\Debug\netcoreapp3.1\MLP.dll
+C:\Users\Computing\MLP\bin\Debug\netcoreapp3.1\MLP.pdb
+C:\Users\Computing\MLP\obj\Debug\netcoreapp3.1\MLP.csproj.AssemblyReference.cache
+C:\Users\Computing\MLP\obj\Debug\netcoreapp3.1\MLP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computing\MLP\obj\Debug\netcoreapp3.1\MLP.AssemblyInfoInputs.cache
+C:\Users\Computing\MLP\obj\Debug\netcoreapp3.1\MLP.AssemblyInfo.cs
+C:\Users\Computing\MLP\obj\Debug\netcoreapp3.1\MLP.csproj.CoreCompileInputs.cache
+C:\Users\Computing\MLP\obj\Debug\netcoreapp3.1\MLP.dll
+C:\Users\Computing\MLP\obj\Debug\netcoreapp3.1\MLP.pdb
+C:\Users\Computing\MLP\obj\Debug\netcoreapp3.1\MLP.genruntimeconfig.cache
+C:\Users\Computing\Downloads\MLP\MLP\bin\Debug\netcoreapp3.1\MLP.exe
+C:\Users\Computing\Downloads\MLP\MLP\bin\Debug\netcoreapp3.1\MLP.deps.json
+C:\Users\Computing\Downloads\MLP\MLP\bin\Debug\netcoreapp3.1\MLP.runtimeconfig.json
+C:\Users\Computing\Downloads\MLP\MLP\bin\Debug\netcoreapp3.1\MLP.runtimeconfig.dev.json
+C:\Users\Computing\Downloads\MLP\MLP\bin\Debug\netcoreapp3.1\MLP.dll
+C:\Users\Computing\Downloads\MLP\MLP\bin\Debug\netcoreapp3.1\MLP.pdb
+C:\Users\Computing\Downloads\MLP\MLP\obj\Debug\netcoreapp3.1\MLP.csproj.AssemblyReference.cache
+C:\Users\Computing\Downloads\MLP\MLP\obj\Debug\netcoreapp3.1\MLP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computing\Downloads\MLP\MLP\obj\Debug\netcoreapp3.1\MLP.AssemblyInfoInputs.cache
+C:\Users\Computing\Downloads\MLP\MLP\obj\Debug\netcoreapp3.1\MLP.AssemblyInfo.cs
+C:\Users\Computing\Downloads\MLP\MLP\obj\Debug\netcoreapp3.1\MLP.csproj.CoreCompileInputs.cache
+C:\Users\Computing\Downloads\MLP\MLP\obj\Debug\netcoreapp3.1\MLP.dll
+C:\Users\Computing\Downloads\MLP\MLP\obj\Debug\netcoreapp3.1\MLP.pdb
+C:\Users\Computing\Downloads\MLP\MLP\obj\Debug\netcoreapp3.1\MLP.genruntimeconfig.cache
+C:\Users\User\Portfolio\Projects\MLP\bin\Debug\netcoreapp3.1\MLP.exe
+C:\Users\User\Portfolio\Projects\MLP\bin\Debug\netcoreapp3.1\MLP.deps.json
+C:\Users\User\Portfolio\Projects\MLP\bin\Debug\netcoreapp3.1\MLP.runtimeconfig.json
+C:\Users\User\Portfolio\Projects\MLP\bin\Debug\netcoreapp3.1\MLP.runtimeconfig.dev.json
+C:\Users\User\Portfolio\Projects\MLP\bin\Debug\netcoreapp3.1\MLP.dll
+C:\Users\User\Portfolio\Projects\MLP\bin\Debug\netcoreapp3.1\MLP.pdb
+C:\Users\User\Portfolio\Projects\MLP\obj\Debug\netcoreapp3.1\MLP.csproj.AssemblyReference.cache
+C:\Users\User\Portfolio\Projects\MLP\obj\Debug\netcoreapp3.1\MLP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Portfolio\Projects\MLP\obj\Debug\netcoreapp3.1\MLP.AssemblyInfoInputs.cache
+C:\Users\User\Portfolio\Projects\MLP\obj\Debug\netcoreapp3.1\MLP.AssemblyInfo.cs
+C:\Users\User\Portfolio\Projects\MLP\obj\Debug\netcoreapp3.1\MLP.csproj.CoreCompileInputs.cache
+C:\Users\User\Portfolio\Projects\MLP\obj\Debug\netcoreapp3.1\MLP.dll
+C:\Users\User\Portfolio\Projects\MLP\obj\Debug\netcoreapp3.1\MLP.pdb
+C:\Users\User\Portfolio\Projects\MLP\obj\Debug\netcoreapp3.1\MLP.genruntimeconfig.cache
