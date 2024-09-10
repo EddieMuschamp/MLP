@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Portfolio\\Projects\\MLP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F10DB846-71F8-4A26-865E-061349C445F3}|MLP.csproj|c:\\users\\user\\portfolio\\projects\\mlp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F10DB846-71F8-4A26-865E-061349C445F3}|MLP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F10DB846-71F8-4A26-865E-061349C445F3}|MLP.csproj|c:\\users\\user\\portfolio\\projects\\mlp\\nodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F10DB846-71F8-4A26-865E-061349C445F3}|MLP.csproj|solutionrelative:nodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10DB846-71F8-4A26-865E-061349C445F3}|MLP.csproj|c:\\users\\user\\portfolio\\projects\\mlp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10DB846-71F8-4A26-865E-061349C445F3}|MLP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Portfolio\\Projects\\MLP\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\User\\Portfolio\\Projects\\MLP\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAQwHAAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAIwHgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T11:51:39.49Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Nodes.cs",
               "DocumentMoniker": "C:\\Users\\User\\Portfolio\\Projects\\MLP\\Nodes.cs",
               "RelativeDocumentMoniker": "Nodes.cs",
               "ToolTip": "C:\\Users\\User\\Portfolio\\Projects\\MLP\\Nodes.cs",
               "RelativeToolTip": "Nodes.cs",
-              "ViewState": "AgIAAJkAAAAAAAAAAAApwKQAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAowOUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T11:51:36.866Z",
               "EditorCaption": ""
